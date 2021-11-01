@@ -16,7 +16,7 @@ The image above shows that the duration of the bike rides in the dataset lasted 
 
 ![image](https://user-images.githubusercontent.com/80642682/126930466-19ed5402-47ec-427f-8811-5e949b5680c7.png)
 
-The image above shows that the womens' trip duration lasted 6 minutes while, the mens' trip duration lasted for 5 minutes.
+The image above shows that the womens' trip duration lasted 6 minutes while, the mens trip duration lasted for 5 minutes.
 
 ### Weekday Trips per Hour
 
